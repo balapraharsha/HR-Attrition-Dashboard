@@ -5,7 +5,7 @@ This project presents an interactive Excel dashboard analyzing employee attritio
 ## 📂 Files Included
 
 - **HR_Attrition_Dashboard_Final.xlsx** — The full dashboard file
-- **Dashboard_View.png** — Visual of the main dashboard
+- **Full-Dashboard.png** — Visual of the main dashboard
 - **Insights_Recommendations.png** — Slide with summarized insights and actions
 
 ## 🔍 Key Insights
